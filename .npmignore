@@ -4,5 +4,5 @@ test/
 .eslintignore
 .eslintrc.js
 .gitignore
-.index.ts
-.tsconfig.json
+index.ts
+tsconfig.json
