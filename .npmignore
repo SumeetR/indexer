@@ -1,0 +1,8 @@
+!dist/**
+.idea/
+test/
+.eslintignore
+.eslintrc.js
+.gitignore
+.index.ts
+.tsconfig.json

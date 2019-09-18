@@ -20,7 +20,7 @@ const array: ArrayItem[] = [
 ];
 
 console.log(array);
-// [{id: 0, name: 'Kurt'},{id: 1, name: 'Krist'},{id: 2, name: 'Dave'},{id: 3, name: 'Pat'} ]
+// [{id: 0, name: 'Kurt'}, {id: 1, name: 'Krist'}, {id: 2, name: 'Dave'}, {id: 3, name: 'Pat'}]
 
 const indexedArray: Indexed<ArrayItem> = indexArray(array);
 
