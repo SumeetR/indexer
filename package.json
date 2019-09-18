@@ -1,6 +1,6 @@
 {
   "name": "@sumeetr/indexer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple utility to index an array of objects",
   "main": "./dist/index.ts",
   "typings": "./dist/index.d.ts",
