@@ -1,9 +1,9 @@
 {
   "name": "@sumeetr/indexer",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Simple utility to index an array of objects",
-  "main": "./dist/index.ts",
-  "typings": "./dist/index.d.ts",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "build": "npm run clean && npm run tsc",
     "clean": "rimraf dist/*",
