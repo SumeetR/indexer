@@ -1,12 +1,11 @@
 # Indexer
-Simple function that indexes an array. Also includes interface.
 
 ## Installation
-npm install --save @sumeetr/indexer
+npm install --save indexer
 
 ## Usage
 ```typescript
-import {Indexed, indexResults} from 'indexer';
+import {Indexed, indexArray} from '@sumeetr/indexer';
 
 interface ArrayItem {
     id: number;
