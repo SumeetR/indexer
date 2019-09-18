@@ -1,7 +1,8 @@
 # Indexer
+Simple function that indexes an array. Also includes interface.
 
 ## Installation
-npm install --save indexer
+npm install --save @sumeetr/indexer
 
 ## Usage
 ```typescript
