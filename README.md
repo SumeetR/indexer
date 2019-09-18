@@ -4,12 +4,12 @@
 npm install --save indexer
 
 ## Usage
-```
-import {Indexed, indexResults}
+```typescript
+import {Indexed, indexResults} from 'indexer';
 
 interface ArrayItem {
-    id: number,
-    name: stringN
+    id: number;
+    name: string;
 }
 
 const array: ArrayItem[] = [
