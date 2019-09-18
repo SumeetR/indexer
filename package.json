@@ -9,9 +9,11 @@
     "clean": "rimraf dist/*",
     "lint": "eslint . --ext .js,.ts",
     "lint:fix": "eslint . --ext .js,.ts --fix",
-    "tsc": "tsc --declaration",
-    "test": "jest"
+    "preversion": "npm run lint && npm run build && npm run test",
+    "test": "jest",
+    "tsc": "tsc --declaration"
   },
+  "repository": "https://github.com/SumeetR/indexer",
   "keywords": [
     "indexer"
   ],
