@@ -1,7 +1,7 @@
 # Indexer
 
 ## Installation
-npm install --save indexer
+npm install --save @sumeetr/indexer
 
 ## Usage
 ```typescript
